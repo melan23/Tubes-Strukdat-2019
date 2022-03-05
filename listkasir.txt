@@ -1,0 +1,41 @@
+No nota terakhir: 3
+N Kasir: 3
+No Nota: 1
+Tanggal: 24-10-2019
+No Meja: 1
+Total Harga: 36000.000000
+Jumlah Node Menu: 2
+	Nama Pesanan: Nasi goreng
+	Jumlah: 2
+	Harga: 15000.000000
+	Nama Pesanan: es jeruk
+	Jumlah: 2
+	Harga: 3000.000000
+
+No Nota: 2
+Tanggal: 24-10-2019
+No Meja: 2
+Total Harga: 19000.000000
+Jumlah Node Menu: 3
+	Nama Pesanan: bakwan
+	Jumlah: 1
+	Harga: 3000.000000
+	Nama Pesanan: nasi ayam
+	Jumlah: 1
+	Harga: 15000.000000
+	Nama Pesanan: air putih
+	Jumlah: 1
+	Harga: 1000.000000
+
+No Nota: 3
+Tanggal: 24-10-2019
+No Meja: 3
+Total Harga: 25000.000000
+Jumlah Node Menu: 2
+	Nama Pesanan: es milo
+	Jumlah: 1
+	Harga: 5000.000000
+	Nama Pesanan: nasi telor
+	Jumlah: 2
+	Harga: 10000.000000
+
